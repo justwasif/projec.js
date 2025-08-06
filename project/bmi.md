@@ -1,1 +1,1 @@
-[bmi link (under progress)](https://stackblitz.com/edit/stackblitz-starters-a4rvacr4?description=HTML/CSS/JS%20Starter&file=script.js,styles.css,index.html&terminalHeight=10&title=Static%20Starter)
+[bmi link](https://stackblitz.com/edit/stackblitz-starters-a4rvacr4?description=HTML/CSS/JS%20Starter&file=script.js,styles.css,index.html&terminalHeight=10&title=Static%20Starter)
